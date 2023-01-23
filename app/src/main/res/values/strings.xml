@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">les2</string>
+    <string name="k">Выполните вход или зарегистрируйтесь.</string>
+    <string name="text">Введите пароль</string>
+    <string name="text1">Введите вашу почту</string>
+    <string name="text2">Добро пожаловать !</string>
+    <string name="text3">Вход</string>
+    <string name="todo">TODO</string>
+    <string name="text4">Забыл пароль?</string>
+</resources>
